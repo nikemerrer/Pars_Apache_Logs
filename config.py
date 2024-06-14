@@ -2,8 +2,8 @@
 
 # Пути к лог-файлам
 file_paths = [
-    (r'C:\Users\sssas\Desktop\Проект\Apache-log-parser\.venv\Scripts\logs1', '%h,%t,%r,%>s,%b'),
-    (r'C:\Users\sssas\Desktop\Проект\Apache-log-parser\.venv\Scripts\logs2', '%r,%>s')
+    (r'C:\Users\sssas\Desktop\parsering_apache_logs\logs1', '%h,%t,%r,%>s,%b'),
+    (r'C:\Users\sssas\Desktop\parsering_apache_logs\logs2', '%r,%>s')
 ]
 
 # Информация для подключения к базе данных PostgreSQL
